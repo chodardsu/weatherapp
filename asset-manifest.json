@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chodardsu/weatherapp.git/static/css/main.020027c8.css",
+    "main.js": "/chodardsu/weatherapp.git/static/js/main.869e2c8b.js",
+    "index.html": "/chodardsu/weatherapp.git/index.html",
+    "main.020027c8.css.map": "/chodardsu/weatherapp.git/static/css/main.020027c8.css.map",
+    "main.869e2c8b.js.map": "/chodardsu/weatherapp.git/static/js/main.869e2c8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.020027c8.css",
+    "static/js/main.869e2c8b.js"
+  ]
+}
